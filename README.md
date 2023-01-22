@@ -1,1 +1,1 @@
-# This is a sample chnage that will change the world
+# This is a sample change that will change the world
